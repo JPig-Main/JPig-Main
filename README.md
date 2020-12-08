@@ -1,4 +1,4 @@
-# JPig
+# JPig's Profile
 
 ## Abstract
 NNCT3Jに所属しています.
