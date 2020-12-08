@@ -3,14 +3,14 @@
 ## Abstract
 NNCT3Jに所属しています.
 プログラミングを本格的に始めたのは今夏からです.
-現在は, JavaScriptを中心に勉強しています.
+現在はJavaScriptを中心に勉強しています.
 
 ## Skills
 * JavaScript
 * C言語
 * LaTeX
 
-## Little
+## Little Touch
 * Python
 * Unity
 
