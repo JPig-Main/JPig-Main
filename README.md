@@ -8,7 +8,7 @@ NNCT3Jに所属しています.
 
 ## Outcomes
 * 2020.9.4 JPig's Page #1 (with html)
-* 2020.12.6 COVIDiffuser (WebIoTメイカーズチャレンジ2020-21 in 信州 にて特別賞受賞(チーム開発))
+* 2020.12.6 COVIDiffuser (WebIoTメイカーズチャレンジ2020-21 in 信州 にて特別賞受賞(Team Janbi))
 
 ## Skills
 * JavaScript
