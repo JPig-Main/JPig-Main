@@ -10,13 +10,13 @@ NNCT3Jに所属しています.
 * C言語
 * LaTeX
 
-## Little Touch
+## Little Touched
 * Python
 * Unity
 
-## Site
+## Sites
 * MyPage : https://competent-hodgkin-da7c74.netlify.app/
 
-## Other Account
+## Other Accounts
 * Twitter : https://twitter.com/JPig_Main
 * Qiita : https://qiita.com/JPig
