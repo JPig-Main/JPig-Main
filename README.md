@@ -19,7 +19,7 @@ NNCT3Jに所属しています.
 * Unity
 
 ## Sites
-* MyPage : https://competent-hodgkin-da7c74.netlify.app/
+* Mypage #1 : https://jpig-main.github.io/mypage-1/
 
 ## Other Accounts
 * Twitter : https://twitter.com/JPig_Main
