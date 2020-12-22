@@ -3,14 +3,14 @@
 ## Abstract
 NNCT3Jに所属しています.
 プログラミングを本格的に始めたのは今夏からです.
-現在はJavaScriptを中心に勉強しています.
+BackEndの勉強始めました.
 
 ## Outcomes
-* 2020.9.4 JPig's Page #1 (with html)
+* 2020.9.4 JPig's Page #1
 * 2020.12.6 COVIDiffuser (WebIoTメイカーズチャレンジ2020-21 in 信州 にて特別賞受賞(Team Janbi))
 
 ## Skills
-* JavaScript
+* FrontEnd
 * C言語
 * LaTeX
 
