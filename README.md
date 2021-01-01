@@ -2,7 +2,7 @@
 
 ![JPig's github stats](https://github-readme-stats.vercel.app/api?username=JPig-Main)
 
-![JPig's Grasses](<img src="https://grass-graph.moshimo.works/images/JPig-Main.png">)
+![JPig's Grasses]("https://grass-graph.moshimo.works/images/JPig-Main.png")
 
 ## Overview
 
