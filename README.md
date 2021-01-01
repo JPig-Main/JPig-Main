@@ -10,7 +10,7 @@ BackEndの勉強始めました.
 * 2020.12.6 COVIDiffuser (WebIoTメイカーズチャレンジ2020-21 in 信州 にて特別賞受賞(Team Janbi))
 
 ## Skills
-* FrontEnd
+* フロントエンド
 * C言語
 * LaTeX
 
