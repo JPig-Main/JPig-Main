@@ -1,6 +1,6 @@
 # JPig's Profile
 
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
+![JPig's github stats](https://github-readme-stats.vercel.app/api?username=JPig-Main)
 
 ## Overview
 
