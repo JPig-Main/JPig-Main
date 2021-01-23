@@ -1,4 +1,4 @@
-# JPig's Profile
+# Profile
 
 ## Overview
 
