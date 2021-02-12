@@ -2,7 +2,7 @@
 
 ## Overview
 
-NNCT3Jに所属しています.
+NNCT18Jに所属しています.
 
 最近は Django, TS あたり
 
