@@ -8,5 +8,5 @@ NNCT18Jに所属しています.
 
 ## Links
 
-- Mypage #1 : https://jpig-main.github.io/Mypage_1/
-- Qiita : https://qiita.com/JPig
+- Portfolio : https://jpig-main.github.io/portfolio/
+- Qiita : https://qiita.com/
