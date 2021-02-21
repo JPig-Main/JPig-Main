@@ -12,5 +12,5 @@ I recently touched on Django, React, Typescript, and so on.
 
 ## Links
 
-- Portfolio: https://jpig-main.github.io/portfolio/
-- Qiita : https://qiita.com/
+- Portfolio：https://jpig-main.github.io/portfolio/
+- Qiita：https://qiita.com/
