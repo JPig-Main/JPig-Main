@@ -4,7 +4,7 @@
 
 NNCT18Jに所属しています.
 
-最近は Django, TS あたり
+最近は Django、React、TS あたり
 
 ## Links
 
