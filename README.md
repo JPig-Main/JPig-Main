@@ -2,7 +2,7 @@
 
 # Overview
 
-(https://img.shields.io/badge/Age-18-red.svg)
+[https://img.shields.io/badge/Age-18-red.svg]
 
 - I'm belonging to NNCT18J.
 - I recently touched on Django, React, Typescript, and so on.
