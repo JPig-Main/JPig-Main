@@ -2,7 +2,7 @@
 
 # Overview
 
-<img src="https://img.shields.io/badge/Age-18-red.svg" />
+<img src="https://img.shields.io/badge/Age-18-red.svg" height="30px" />
 
 - I'm belonging to NNCT18J.
 - I recently touched on Django, React, Typescript, and so on.
