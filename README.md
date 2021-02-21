@@ -5,8 +5,6 @@
 - I'm belonging to NNCT18J.
 - I recently touched on Django, React, Typescript, and so on.
 
-[![JPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPig-Main&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![JPig's github stats](https://github-readme-stats.vercel.app/api?username=JPig-Main&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/JPig-Main/)
 
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPig-Main&layout=compact&theme=tokyonight)](https://github.com/JPig-Main/)
