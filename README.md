@@ -2,9 +2,7 @@
 
 # Overview
 
-<style>img{display: inline-block}</style>
-<img src="https://img.shields.io/badge/Age-18-blue.svg" height="24px" />
-<img src="https://img.shields.io/badge/School-NIT,Nagano College-blue.svg" height="24px" />
+<img src="https://img.shields.io/badge/Age-18-blue.svg" height="24px" /><img src="https://img.shields.io/badge/School-NIT,Nagano College-blue.svg" height="24px" />
 
 - I'm belonging to NNCT18J.
 - I recently touched on Django, React, Typescript, and so on.
