@@ -1,10 +1,11 @@
-# JPig's Profile
+# I'm JPig
 
-## Overview
+# Overview
 
-NNCT18Jに所属しています.
+https://img.shields.io/badge/Age-18-red.svg
 
-最近は Django、React、TS あたり
+- I'm belonging to NNCT18J.
+- I recently touched on Django, React, Typescript, and so on.
 
 [![JPig's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPig-Main)](https://github.com/anuraghazra/github-readme-stats)
 
