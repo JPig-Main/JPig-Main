@@ -6,7 +6,7 @@
 
 ## Language / Framework
 
-I recently touched on __Django__, __React__, __Typescript__, and so on.
+I recently touched on```Django```, ```React```, ```Typescript```, and so on.
 
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPig-Main&layout=compact&theme=tokyonight)](https://github.com/JPig-Main/)
 
