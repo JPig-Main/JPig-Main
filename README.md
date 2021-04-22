@@ -6,7 +6,7 @@
 
 ## Language / Framework
 
-Recently I'm developing with `Django Rest Framework` and `React`.
+Recently I'm developing with `Django` and `React`.
 
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPig-Main&layout=compact&theme=tokyonight)](https://github.com/JPig-Main/)
 
