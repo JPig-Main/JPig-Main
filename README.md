@@ -6,8 +6,6 @@
 
 ## Language / Framework
 
-Recently I'm developing with `Django` and `React`.
-
 [![Top used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpig-com&layout=compact&theme=tokyonight)](https://github.com/jpig-com/)
 
 ## Links
