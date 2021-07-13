@@ -2,17 +2,10 @@
 
 ## Profile
 
----
-
-<img src="https://img.shields.io/badge/School-National Institute of Technology-blue.svg" height="24px" />
-<img src="https://img.shields.io/badge/Department-Information Technology-blue.svg" height="24px" />
-<img src="https://img.shields.io/badge/Age-18-blue.svg" height="24px" />
-<br>
+<img src="https://img.shields.io/badge/School-National Institute of Technology-blue.svg" height="24px" /> <img src="https://img.shields.io/badge/Department-Information Technology-blue.svg" height="24px" /> <img src="https://img.shields.io/badge/Age-18-blue.svg" height="24px" />
 <img src="https://img.shields.io/badge/When Started Programming in Earnest-July 2020-green.svg" height="24px" /> 
 
 ## Stats
-
----
 
 <div style="display: flex;">
 
@@ -23,8 +16,6 @@
 </div>
 
 ## Links
-
----
 
 - Portfolio：https://jpig-com.github.io/portfolio/
 - Qiita：https://qiita.com/
