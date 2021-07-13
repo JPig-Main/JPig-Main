@@ -16,5 +16,7 @@
 
 ## Links
 
-- Portfolio：https://jpig-com.github.io/portfolio/
-- Qiita：https://qiita.com/
+|Category|URL|
+|:--|:--|
+|Portfolio|https://jpig-com.github.io/portfolio/|
+|Qiita|https://qiita.com/|
